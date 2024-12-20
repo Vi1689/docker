@@ -1,2 +1,1 @@
-FROM Ubuntu
-
+FROM ubuntu
